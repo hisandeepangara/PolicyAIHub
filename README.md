@@ -23,5 +23,5 @@ The Problem with Traditional Policy Management
 
 ## Team:
 - Anurag Govardhana | [GitHub](https://github.com/anuraggovardhana)
-- Sandeep Angara | [GitHub](https://github.com/hisandeepangara)
+- Sandeep Angara | [GitHub](https://github.com/hisandeepangara) 
 
